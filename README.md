@@ -42,10 +42,6 @@ To run the movie recommendation system, you need to have the following Python li
 - scikit-learn: A machine learning library for Python, providing tools for data mining and data analysis.
 - difflib: A library that provides classes and functions for comparing sequences.
 
-You can install these dependencies using `pip`, the Python package manager, by running the following command in your terminal or command prompt:
-
-```bash
-pip install numpy pandas scikit-learn
 
 ## Note
 
